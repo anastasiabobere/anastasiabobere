@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anastasiabobere
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anastasia.bobere@gmail.com
 
