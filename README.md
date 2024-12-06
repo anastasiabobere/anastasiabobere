@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anastasiabobere
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anastasia.bobere@gmail.com
+- 👀 I’m interested in web development and ai
+- 🌱 I’m currently learning js and python
+- 📫 How to reach me - anastasia.bobere@gmail.com
 
 <!---
 anastasiabobere/anastasiabobere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
