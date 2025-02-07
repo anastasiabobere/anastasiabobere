@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anastasiabobere
-- 👀 I’m interested in web development and ai
-- 🌱 I’m currently learning react
+- 👀 I’m interested in ai 
+- 🌱 I’m currently learning python
 - 📫 How to reach me - anastasia.bobere@gmail.com
 
 <!---
